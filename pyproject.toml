@@ -1,0 +1,12 @@
+[project]
+name = "pythonproject"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "automium-web>=0.1.1",
+    "distro>=1.9.0",
+    "fastmcp>=2.14.2",
+    "psutil>=7.2.1",
+    "pydantic>=2.12.5",
+]
